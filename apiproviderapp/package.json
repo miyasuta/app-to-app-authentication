@@ -1,0 +1,9 @@
+{
+  "main": "server.js",
+  "dependencies": {
+    "@sap/xsenv": "^5.1.0",
+    "@sap/xssec": "^4.0.2",
+    "express": "^4.19.2",
+    "passport": "^0.7.0"
+  }
+}

@@ -1,0 +1,8 @@
+---
+applications:
+- name: clientapp-t
+  memory: 128M
+  buildpacks:
+    - nodejs_buildpack
+  services:
+    - xsuaaforclient
